@@ -1,0 +1,4 @@
+G5V-1-T90 DC5	2	relay
+S12B-PHDSS		2	12pin connector
+0532610671		2	6pin connector
+0532610271		1	2pin connector

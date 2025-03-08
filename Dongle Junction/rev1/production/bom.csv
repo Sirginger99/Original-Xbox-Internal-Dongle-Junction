@@ -1,0 +1,9 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D1, D2",D_DO-41_SOD81_P10.16mm_Horizontal,2,1N4004,
+J1,JST_PHD_S12B-PHDSS_2x06_P2.00mm_Horizontal,1,Mobo,
+J2,JST_PHD_S12B-PHDSS_2x06_P2.00mm_Horizontal,1,Controllers,
+J3,Molex_PicoBlade_53261-0671_1x06-1MP_P1.25mm_Horizontal,1,Dongle1,
+J4,Molex_PicoBlade_53261-0671_1x06-1MP_P1.25mm_Horizontal,1,Dongle2,
+J5,Molex_PicoBlade_53261-0271_1x02-1MP_P1.25mm_Horizontal,1,Xerc,
+J6,Molex_PicoBlade_53261-0271_1x02-1MP_P1.25mm_Horizontal,1,Shield,
+"K1, K2",Relay_SPDT_Omron_G5V-1,2,G5V-1,
