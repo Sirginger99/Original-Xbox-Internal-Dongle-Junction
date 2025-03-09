@@ -1,5 +1,9 @@
 Open source project creating a juntion to use for internalizing 
-Xbox(OG) dongles. The goal was to make something simple, cheap, 
+Xbox(OG) dongles. For those unfamiliar, this will allow you to 
+internalize a dongle while retaining use of the controller port. 
+It's a simple relay circuit that will switch to controller if 
+one is plugged in, and default on the dongle if the controller 
+is not in use. The goal was to make something simple, cheap, 
 and small. There have been many variations of this that use 
 switches, programmed chips, and spliced wires. This design 
 removes the need for any of those. Please note that these are 
