@@ -26,5 +26,21 @@ to internalize a dvd dongle. The wire that would normally bridge
 the two can just be plugged into the marked pin. This is connected
 to both dongle positions.
 
+For those unable to view the materials file, a picture is attached below.
+![Materials](https://github.com/user-attachments/assets/8abe7969-0ff1-4a40-8686-271a1112ba3c)
+
+
+Revision 1
+Dimensions: 55 x 33.5 x 13.4mm 
+The difference between this and beta is a designated spot for the 
+diodes. Originally, they would have been soldered across the points. 
+This design was changed for complete assembly upon ordering, and an 
+attempt to ease the mounting process by including all parts on the 
+same side of the pcb.
 ![Capture4](https://github.com/user-attachments/assets/b9e58128-922b-4c57-b4a4-7e30746dc90b)
 ![Photo Mar 03 2025, 5 23 53 PM](https://github.com/user-attachments/assets/ddb39b83-0f5b-473f-87bb-859137f2fba1)
+
+Revision 2
+Dimensions: 40 x 35.5 x 13.4mm 
+All the same features as revision 1, just slightly smaller.
+![rev2](https://github.com/user-attachments/assets/b68dc474-2a9a-49ac-a6f3-9fb4e457c727)
