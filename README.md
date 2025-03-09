@@ -27,3 +27,4 @@ the two can just be plugged into the marked pin. This is connected
 to both dongle positions.
 
 ![Capture4](https://github.com/user-attachments/assets/b9e58128-922b-4c57-b4a4-7e30746dc90b)
+![Photo Mar 03 2025, 5 23 53 PM](https://github.com/user-attachments/assets/ddb39b83-0f5b-473f-87bb-859137f2fba1)
