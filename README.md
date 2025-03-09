@@ -5,10 +5,10 @@ switches, programmed chips, and spliced wires. This design
 removes the need for any of those. Please note that these are 
 designed for one internal dongle per port. Stacking multiple 
 dongles onto the same port may require a switch or additional 
-materials. The materials document lists evrything used on the 
+materials. The materials document lists everything used on the 
 PCB, along with it's matching connectors.
 
-The pin positions are identical on the "Mobo" and "Controller" 
+The pin positions are identical on the "Mobo" and "Controllers" 
 connectors. This requires a cross cable be used from the "Mobo" 
 connector to the motherboard. The controllers plug dirctly to the 
 junction.
@@ -30,8 +30,8 @@ For those unable to view the materials file, a picture is attached below.
 ![Materials](https://github.com/user-attachments/assets/8abe7969-0ff1-4a40-8686-271a1112ba3c)
 
 
-Revision 1
-Dimensions: 55 x 33.5 x 13.4mm 
+Revision 1. 
+Dimensions: 55 x 33.5 x 13.4mm. 
 The difference between this and beta is a designated spot for the 
 diodes. Originally, they would have been soldered across the points. 
 This design was changed for complete assembly upon ordering, and an 
@@ -40,7 +40,7 @@ same side of the pcb.
 ![Capture4](https://github.com/user-attachments/assets/b9e58128-922b-4c57-b4a4-7e30746dc90b)
 ![Photo Mar 03 2025, 5 23 53 PM](https://github.com/user-attachments/assets/ddb39b83-0f5b-473f-87bb-859137f2fba1)
 
-Revision 2
-Dimensions: 40 x 35.5 x 13.4mm 
+Revision 2. 
+Dimensions: 40 x 35.5 x 13.4mm. 
 All the same features as revision 1, just slightly smaller.
 ![rev2](https://github.com/user-attachments/assets/b68dc474-2a9a-49ac-a6f3-9fb4e457c727)
